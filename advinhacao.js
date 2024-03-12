@@ -1,4 +1,4 @@
-let min = 65;
+let min = 25;
 
 let max = 100;
 
